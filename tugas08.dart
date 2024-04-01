@@ -4,7 +4,7 @@ void main(){
     if(kata[i]=='s'){
       print("Nomor index s pada kata adalah : $i");
       break;
-    }
+    } 
   }
 
 }
