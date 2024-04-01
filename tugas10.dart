@@ -8,7 +8,7 @@ void main(){
   print(x.elementAt(1));
 
   //menampilkan dengan index
-
+ 
   for(int i =0;i<x.length;i++){
     print(x.elementAt(i));
   }
