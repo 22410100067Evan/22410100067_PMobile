@@ -13,7 +13,7 @@ void main(){
     print(isi);
   }
   //menambahkan
-  x.add(60);
+  x.add(60); 
   print(x);
   //update
   x[1]=200;
