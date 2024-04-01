@@ -10,7 +10,7 @@ void main(){
     case 6 : namahari="Sabtu";break;
     case 7 : namahari="Minggu";break;
     default : namahari="Salah";break;
-
+ 
   }
   print(namahari);
 }
